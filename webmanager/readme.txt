@@ -1,6 +1,6 @@
 WallManager Web Application
 
-This django project (webmanager) is part of the Wall Manager project and aims to allow users to manage their applications, for guests to report them, and administrators to change the settings.
+This django project (webmanager) is part of the Wall Manager project and the aims of this project is to allow users to manage their applications, for guests to report them, and administrators to change the settings.
 
 
 QuickStart:
